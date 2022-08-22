@@ -2,6 +2,12 @@ owner: bourvill
 repo: upptime
 
 sites:
+  - name: Mazout
+    url: https://mazout.info
+  - name: Mazout API
+    url: https://api.mazout.info/v2
+  - name: District Web
+    url: https://www.district-web.fr
   - name: Mailledesign
     url: https://www.mailledesign.fr
 
