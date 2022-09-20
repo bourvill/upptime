@@ -4,10 +4,10 @@
     "url": "https://mazout.info",
     "icon": "https://favicons.githubusercontent.com/mazout.info",
     "slug": "mazout",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
@@ -15,7 +15,9 @@
     "timeWeek": 636,
     "timeMonth": 607,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Mazout API",
