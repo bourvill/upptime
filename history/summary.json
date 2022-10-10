@@ -4,10 +4,10 @@
     "url": "https://mazout.info",
     "icon": "https://favicons.githubusercontent.com/mazout.info",
     "slug": "mazout",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
@@ -15,17 +15,19 @@
     "timeWeek": 590,
     "timeMonth": 750,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-10": 1
+    }
   },
   {
     "name": "Mazout API",
     "url": "https://api.mazout.info/v2",
     "icon": "https://favicons.githubusercontent.com/api.mazout.info",
     "slug": "mazout-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 806,
@@ -33,16 +35,18 @@
     "timeWeek": 687,
     "timeMonth": 844,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-10": 1
+    }
   },
   {
     "name": "District Web",
     "url": "https://www.district-web.fr",
     "icon": "https://favicons.githubusercontent.com/www.district-web.fr",
     "slug": "district-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +55,16 @@
     "timeWeek": 881,
     "timeMonth": 1010,
     "timeYear": 1030,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-10": 0
+    }
   },
   {
     "name": "Mailledesign",
     "url": "https://www.mailledesign.fr",
     "icon": "https://favicons.githubusercontent.com/www.mailledesign.fr",
     "slug": "mailledesign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 2839,
     "timeMonth": 2869,
     "timeYear": 2861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-10": 0
+    }
   }
 ]
