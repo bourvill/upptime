@@ -4,19 +4,19 @@
     "url": "https://mazout.info",
     "icon": "https://favicons.githubusercontent.com/mazout.info",
     "slug": "mazout",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 687,
-    "timeDay": 473,
-    "timeWeek": 590,
-    "timeMonth": 750,
+    "timeDay": 558,
+    "timeWeek": 597,
+    "timeMonth": 747,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2022-10-10": 1
+      "2022-10-10": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/api.mazout.info",
     "slug": "mazout-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 806,
     "timeDay": 653,
     "timeWeek": 687,
     "timeMonth": 844,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2022-10-10": 1
+      "2022-10-10": 15
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.district-web.fr",
     "icon": "https://favicons.githubusercontent.com/www.district-web.fr",
     "slug": "district-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1030,
-    "timeDay": 999,
-    "timeWeek": 881,
-    "timeMonth": 1010,
+    "timeDay": 1017,
+    "timeWeek": 901,
+    "timeMonth": 1011,
     "timeYear": 1030,
     "dailyMinutesDown": {
-      "2022-10-10": 0
+      "2022-10-10": 15
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.mailledesign.fr",
     "icon": "https://favicons.githubusercontent.com/www.mailledesign.fr",
     "slug": "mailledesign",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2861,
-    "timeDay": 2912,
-    "timeWeek": 2839,
-    "timeMonth": 2869,
-    "timeYear": 2861,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 2938,
+    "timeDay": 4850,
+    "timeWeek": 3333,
+    "timeMonth": 2995,
+    "timeYear": 2938,
     "dailyMinutesDown": {
-      "2022-10-10": 0
+      "2022-10-10": 14
     }
   }
 ]
