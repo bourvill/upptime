@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/mazout.info",
     "slug": "mazout",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 636,
-    "timeDay": 808,
-    "timeWeek": 495,
-    "timeMonth": 539,
-    "timeYear": 636,
+    "uptimeYear": "99.99%",
+    "time": 632,
+    "timeDay": 365,
+    "timeWeek": 473,
+    "timeMonth": 530,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2022-10-10": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 862,
-    "timeDay": 820,
-    "timeWeek": 718,
-    "timeMonth": 903,
-    "timeYear": 862,
+    "time": 856,
+    "timeDay": 453,
+    "timeWeek": 693,
+    "timeMonth": 889,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2022-10-10": 35
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 1105,
-    "timeWeek": 872,
-    "timeMonth": 919,
-    "timeYear": 1001,
+    "time": 997,
+    "timeDay": 755,
+    "timeWeek": 834,
+    "timeMonth": 911,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2920,
-    "timeDay": 3178,
-    "timeWeek": 2786,
-    "timeMonth": 2983,
-    "timeYear": 2920,
+    "time": 2921,
+    "timeDay": 3001,
+    "timeWeek": 2801,
+    "timeMonth": 2988,
+    "timeYear": 2921,
     "dailyMinutesDown": {}
   }
 ]
