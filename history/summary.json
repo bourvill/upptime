@@ -4,18 +4,19 @@
     "url": "https://mazout.info",
     "icon": "https://favicons.githubusercontent.com/mazout.info",
     "slug": "mazout",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 620,
-    "timeDay": 563,
+    "timeDay": 478,
     "timeWeek": 548,
     "timeMonth": 532,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-11-16": 18,
       "2022-10-10": 15
     }
@@ -25,9 +26,9 @@
     "url": "https://api.mazout.info/v2",
     "icon": "https://favicons.githubusercontent.com/api.mazout.info",
     "slug": "mazout-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 891,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-10-10": 35
     }
   },
@@ -45,9 +47,9 @@
     "url": "https://www.district-web.fr",
     "icon": "https://favicons.githubusercontent.com/www.district-web.fr",
     "slug": "district-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +58,9 @@
     "timeWeek": 947,
     "timeMonth": 966,
     "timeYear": 1000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-17": 0
+    }
   },
   {
     "name": "Mailledesign",
